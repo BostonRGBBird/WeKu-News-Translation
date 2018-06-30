@@ -1,8 +1,8 @@
-WEKU FAQ
+# WEKU FAQ
 
-目录
+## 目录
 
-一般
+### 一般
 什么是WEKU.io？
 WEKU如何工作？
 WEKU与其他社交媒体网站有何不同？
