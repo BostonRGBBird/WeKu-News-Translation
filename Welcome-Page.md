@@ -9,7 +9,7 @@
 
 ## 目录
 
-### 快速入门指南
+### 快速入门指南 (TODO: need add internal link for items below)
 
 * 零参与成本
 * 点赞 （Upvotes)
