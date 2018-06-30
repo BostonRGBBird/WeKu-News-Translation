@@ -136,7 +136,7 @@ WEKU，WEKU Power和WEKU Dollars是WEKU区块链使用的三种数字货币形�
 
 作者报酬在WEKU Power中支付50％，在Liquid WEKU / SBD中支付另外50％。
 
-作者还可以选择拒绝支付，或者用WEKU Power支付100%！
+作者还可以选择拒绝支付，或者用100%使用WEKU Power支付！
 
 ^
 
