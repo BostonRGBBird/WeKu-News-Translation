@@ -931,46 +931,46 @@ https://WEKUit.com/WEKUit/@shapeshiftio/official-announcement-shapeshift-has-add
 在目前的实施中，downvote和flag之间没有区别。它们在区块链层面的处理方式相同。
 
 ^
-=====
+
 ## 剽窃，垃圾邮件和滥用
 
 ### WEKU关于剽窃和垃圾邮件的政策是什么？
-如果您发布剽窃或复制的内容，则可能因违反版权法而陷入法律纠纷。剽窃的帖子和垃圾邮件被视为滥用，并会被社区成员低估。如果您发布或使用其他人的内容，则必须确保您有权使用该内容，并正确引用您从中获得材料的来源。
+如果您发布剽窃或复制的内容，则可能因违反版权法而陷入法律纠纷。剽窃的帖子和垃圾邮件被视为滥用，并会被社区成员踩贴。如果您发布或使用其他人的内容，则必须确保您有权使用该内容，并正确引用您获得材料的来源。
 
 ^
 
-### 可以使用互联网上的随机图片吗？
-如果您使用的图像不是您自己的图像，请确保允许您使用图像，并引用图像的来源。
+### 可以随意使用互联网上的图片吗？
+如果您使用的图像不是您自己的图像，请确保您被允许使用此图像，并引用图像的来源。
 
-不鼓励使用来自互联网的随机图片。但是，您可以使用来自“免费图像”网站的照片，例如Pexels.com或Pixabay.com。 Pexels和Pixabay上的所有照片均可免费用于个人和商业用途。
+不鼓励不提供来源的使用来自互联网的随机图片。但是，您可以使用来自“免费图片”网站的照片，例如Pexels.com或Pixabay.com。 Pexels和Pixabay上的所有照片均可免费用于个人和商业用途。
 
-这里有一篇来自@mindover的文章，该文章链接到许多可以使用图片的网站：
+这里有一篇来自@mindover（TODO: add in link)的文章，该文章链接到许多可以使用图片的网站：
 https://WEKUit.com/WEKU-help/@mindover/don-t-plagiarize-images-here-are-13-free-and-legal-ways-to-find-high-quality-photos-you-can -use-ON-WEKUit
 
 ^
 
 ### 什么是WEKUcleaners？
-WEKUcleaners是一组WEKUians，他们在WEKU上关注剽窃，复制/粘贴，垃圾邮件，诈骗和其他形式的滥用。
+WEKUcleaners是在WEKU上关注剽窃，复制/粘贴，垃圾邮件，诈骗和其他形式的滥用一组WEKUians。
 https://WEKUit.com/WEKUcleaners/@WEKUcleaners/announcing-WEKUcleaners-the-WEKUit-abuse-fighting-team
 
 ^
 
 ### 什么是@cheetah？
-@cheetah是由@anyx开发的一款bot，可以扫描WEKU复制/粘贴的内容。猎豹不会降低复制的内容，但会提醒其他用户进一步查看。
+@cheetah是由@anyx开发的一款bot，可以扫描WEKU复制/粘贴的内容。Cheetah不会踩贴复制的内容，但会提醒其他用户进一步查看。
 
-滥用账户（例如串行剽窃者或身份盗窃者）将继续留在猎豹的黑名单中。这些用户在发布时会被@cheetah帐户下调。
+滥用账户（例如连续剽窃者或身份盗窃者）将继续留在Cheetah的黑名单中。这些用户在发布时会被@cheetah帐户踩贴。
 
 更多关于@cheetah bot的信息可以在这篇文章中找到：
 https://WEKUit.com/WEKUit/@cheetah/faq-about-cheetah
 
 ^
 
-### 我在哪里报告包含剽窃，垃圾邮件或滥用的帖子或评论？
+### 我在哪里举报包含剽窃，垃圾邮件或滥用的帖子或评论？
 您可以向WEKUit.chat上的#WEKUitabuse频道举报任何滥用内容。
 
 ^
 
-
+==============
 ## 声誉
 
 ### 什么是声誉？
