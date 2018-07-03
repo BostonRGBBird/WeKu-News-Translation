@@ -138,7 +138,7 @@
 * 什么是ReWEKUing？
 * 我可以在其他社交媒体上分享吗？
 
-### Blockchain
+### 区域链
 * 什么是区块链？
 * 什么是WEKU区块链？
 * WEKU和WEKUit有什么区别？(TODO: update English version)
@@ -1203,56 +1203,56 @@ WEKU Inc.为所有使用WEKU.com(TODO: change to WEKU.io in original)注册的�
 ^
 
 
-======
-## 开发商
 
-### WEKU区块链和WEKU.com代码是开源的吗？
-是。 WEKU区块链和WEKU.com都是开源项目。
+## 开发人员
 
-然而，开发人员应避免在他们自己的产品中使用术语“WEKU”，而应参考WEKU区块链或WEKU平台。 WEKU指WEKU.com，由WEKU，Inc.拥有
+### WEKU区块链和WEKU.com代码是开源的吗？(TODO: update WEKU.com to WEKU.io?)
+是的。 WEKU区块链和WEKU.com都是开源项目。
+
+然而，开发人员应避免在他们自己的产品中使用“WEKU”，而应该说使用WEKU区块链或WEKU平台。 WEKU指WEKU.com，由WEKU，Inc.所拥有。
 
 ^
 
-### WEKU.com是否有Github页面？
+### WEKU.com是否有Github？
 https://github.com/WEKUit/condenser
 
 ^
 
-### WEKU区块链是否有Github页面？
+### WEKU区块链是否有Github？
 https://github.com/WEKUit/WEKU
 
 ^
 
-### 对WEKU和WEKU感兴趣的开发人员可以使用哪些功能？
-目前许多软件工程师正在利用开源代码在WEKU上构建他们的应用程序。到目前为止已有六十多个。
+### 对WEKU和WEKU感兴趣的开发人员有什么资源？
+目前许多软件工程师正在利用开源代码在WEKU上构建他们的应用程序。到目前为止已有六十多个。(TODO: please update in the original version)
 
-来自用户@fabien的这篇文章提供了有关WEKU API的更多信息：
+来自用户@fabien的这篇文章提供了有关WEKU API的更多信息：(TODO: need update the link?)
 https://WEKUit.com/WEKUjs/@fabien/WEKU-api-now-released
 
 ^
 
-### 我如何使用cli_wallet？
-以下是来自用户@pfunk的指南，解释如何使用cli_wallet：
+### 我应该如何使用cli_wallet？
+以下是来自用户@pfunk的指南，解释如何使用cli_wallet：（TODO: need update the link?)
 https://WEKUit.com/WEKUhelp/@pfunk/a-learner-s-guide-to-using-WEKU-s-cliwallet-part-1
 
 ^
 
-## 目击者
+## 公证人
 
-### WEKU的目击者是什么？
-WEKU区块链需要一组人员来创建区块，并使用一种被称为委托证据的共识机制，即DPOS。社区选择“证人”作为网络的区块生产者和治理机构。有20个全职目击者，每隔63秒就会产生一个街区。第21个职位由备用证人共享，这些证人按照他们拥有的权益加权社区批准数量按比例排列。 WEKU Power为他们创建的每个区块提供补偿。
+### WEKU的公证人是什么？
+WEKU区块链需要不同角色的一组人员来创建区块，它并使用分配式权益证明的共识机制，即DPOS。社区选择“公证人”作为网络的区块生产者和治理者。有20个全职的公证人，每隔63秒一轮产生一个区块。第21个职位由备用证人分享，这些公证人按照他们拥有的社区批准的权益加权的多少按比例排列。 WEKU Power为他们创建的每个区块提供奖励。
 
-WEKU利用WEKU，因为WEKU的创始人认为WEKU的分散式文本内容存储和治理模式使WEKU成为支持其社交网络和数字货币代币的长期成功的绝佳平台。
-
-^
-
-### 我如何投票给证人？
-访问https://WEKUit.com/~witnesses
+WEKU的创始人认为WEKU的分步式文本内容存储和管理模式会使WEKU成为一个支持建立在其平台之上的社交网络和数字货币代币的长期成功。
 
 ^
 
-### 我可以投多少个证人？
-每个账户可以投票最多30个证人。
+### 我如何投票给公证人？
+请访问https://WEKUit.com/~witnesses
+
+^
+
+### 我可以投多少个公证人？
+每个账户最多可以投票30个证人。
 
 ^
 
