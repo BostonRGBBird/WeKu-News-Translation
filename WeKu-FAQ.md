@@ -1084,7 +1084,7 @@ WEKU的最初推出时间为2016年3月23日，在Bitcointalk.org上发布。尽
 
 ## WEKU，Inc.
 
-WEKU联合创始人是谁？
+WEKU联合创始人是谁？（TODO TODO: please update the original version!!!!!)
 WEKU首席执行官内德斯科特说
 https://www.linkedin.com/in/nedscott
 
@@ -1094,33 +1094,33 @@ https://www.linkedin.com/in/daniel-larimer-0a367089
 ^
 
 ### 我可以投资WEKU吗？
-WEKU，Inc.是一家私人控股公司，不适用于公共投资。
+WEKU，Inc.是一家私人公司，公众不能进行投资。
 
-虽然不被视为投资，但您可以购买可升值或降价的WEKU代币。您可以将这些令牌加入WEKU Power，这会在WEKU平台中发挥更大的影响力。
+虽然不是投资，您可以购买WEKU代币，因为代币的价格随市场波动。您可以将这些代币变成WEKU Power，这会在让您在WEKU平台中发挥更大的影响力。
 
 ^
 
-### WEKU的发展路线图是什么样的？
+### WEKU的发展路线图是什么样的？(TODO TODO: please update!!)
 您可以在这里查看2017年路线图：
 https://WEKUit.com/WEKUit/@WEKUitblog/WEKUit-2017-roadmap
 
 ^
 
-### 我可以使用WEKU标志吗？
-目前，WEKU和WEKU徽标是相同的，可以免费使用。未来，WEKU，Inc.将拥有自己的标识，以便与WEKU区别开来。 WEKU标志将是专有的，而WEKU及其三个S形的波形将保持开放供公众使用。
+### 我可以使用WEKU的商标吗？(TODO TODO: please update the original English version)
+目前，WEKU和WEKUit商标是一样的，可以免费使用。在将来，WEKU，Inc.将拥有自己的标识，以便与WEKU区别开来。 WEKU标志将是专有的，而WEKU及其三个S形的波形将保持开放供公众使用。
 
 ^
 
 ### 我可以购买官方WEKU商品吗？
-目前还没有官方商品，但在zazzle.com或类似网站上制作WEKU装备很容易。
+目前还没有官方商品，但在zazzle.com或类似网站上制作WEKU相关产品很容易。
 
-这里是一篇来自@ artist1989指导的文章：
-https://WEKUit.com/art/@artist1989/custom-WEKU-and-WEKUit-art-and-instructions-on-how-to-create-your-very-own-WEKU-WEKUit-gear-t-shirts - 咖啡，杯子，等
+这里是一篇来自@ artist1989的指导文章：
+https://WEKUit.com/art/@artist1989/custom-WEKU-and-WEKUit-art-and-instructions-on-how-to-create-your-very-own-WEKU-WEKUit-gear-t-shirts-coffee-mugs-etc
 
 ^
 
-### WEKU有没有“pre-mine”标记？
-由WEKU，Inc.开采的WEKU代币不是“预先开采”的。所有采矿活动都是在Bitcointalk.org正式公布之后进行的。
+### WEKU有没有提前挖代币？
+由WEKU，Inc.的WEKU代币不能提前挖。所有挖矿活动都是在Bitcointalk.org上正式公布之后进行的。
 
 ^
 
@@ -1128,7 +1128,7 @@ https://WEKUit.com/art/@artist1989/custom-WEKU-and-WEKUit-art-and-instructions-o
 https://WEKUit.com/privacy.html
 
 ^
-
+==========
 ## 安全
 
 ### 我如何保持我的WEKU帐户安全？
