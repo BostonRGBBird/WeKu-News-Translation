@@ -176,10 +176,10 @@
 * 对WEKU和WEKUit感兴趣的开发人员有什么资源？(TODO: update English version)
 * 如何使用cli_wallet？
 
-### 证人
-* 什么是WEKU的证人？
-* 我如何投票给证人？
-* 我最多可以投多少个证人？
+### 公证人
+* 什么是WEKU的公证人？
+* 我如何投票给公证人？
+* 我最多可以投多少个公证人？
 
 ### 其它
 * WEKU有哪些第三方工具？
@@ -1258,14 +1258,14 @@ WEKU的创始人认为WEKU的分步式文本内容存储和管理模式会使WEK
 
 
 
-## 杂
+## 其它
 
 ### WEKU有哪些第三方工具？
 http://WEKUtools.com/
 
 ^
 
-### 有没有官方的WEKU Facebook页面？
+### 有没有官方的WEKU Facebook？
 https://www.facebook.com/WEKUit/
 
 ^
@@ -1275,29 +1275,29 @@ https://twitter.com/WEKUit
 
 ^
 
-### WEKU白皮书是什么？它的目的是什么？
-WEKU白皮书是为描述令牌系统的机制而编写的，它可以使分散式内容激励和分发成为可能，从而可以全面改进Web技术。它也适用于WEKU，第一个插入WEKU区块链的网站。阅读WEKU白皮书的用户将更好地了解他们与WEKU的互动与WEKU（分散式网络）的互动。
+### WEKU白皮书是什么？它是做什么的？
+WEKU白皮书用来描述其代币系统机制以来激励分散式内容的创作和传播，从而可以全面改进Web技术。它也适用于WEKU（TODO: update the link for the website here)-- 第一个写入WEKU区块链的网站。通过阅读WEKU白皮书，用户可以更好地了解他们如何与分散式网络WEKU来互动。
 
-值得注意的是，自WEKU成立以来，白皮书几乎没有更新。自那时以来，已经做出许多改变，因此白皮书中的大部分内容都已过时。它正在被重写。
+需要提出的是，自WEKU产生以来，白皮书几乎没有更新。从产生到现在已经做出许多改变，所以白皮书中的大部分内容都已过时。更新版本正在编写中。
 
 https://WEKU.io/WEKUWhitePaper.pdf
 
 ^
 
-### 如果我的问题在这里没有得到解答，我可以在哪里寻求帮助？
-如果您将问题发布在WEKUit.chat的#help频道中，那么用户可能会提供帮助。
+### 如果我的问题在这里没有得到解答，我在哪里可以寻求帮助？
+如果您将问题发布在WEKUit.chat(TODO: add link)的#help频道中，在那里的用户可以提供帮助。
 
-您也可以使用#help标签在WEKU.com上创建帖子，社区中的某个人可以回答它。
+您也可以使用#help标签在WEKU.com上创建帖子，社区中的某个用户有可能回答您的问题。
 
 ^
 
-## 放弃
+## 免责声明
 
 ### 第三方参考和用户链接
-BlockTrading，Poloniex，Bittrex，Changelly，Shapeshift.io，Coinbase，Localbitcoin，WEKUDB，PeerHub，WEKU.chat，WEKUTools，AnonWEKU，WEKUConnect，Streemian，WEKUStats，Pixabay，WEKUcleaners，Pexels，Postimage，Markdown Cheatsheet，@cheetah，Bitcointalk， bitcoinfees，blockchain.info和WEKUd是第三方应用程序/服务，并非由WEKU，Inc.拥有或维护。此处列出的这些列表以及列出的任何其他第三方应用程序或网站不构成和认可，或代表WEKU公司推荐
+BlockTrading，Poloniex，Bittrex，Changelly，Shapeshift.io，Coinbase，Localbitcoin，WEKUDB，PeerHub，WEKU.chat，WEKUTools，AnonWEKU，WEKUConnect，Streemian，WEKUStats，Pixabay，WEKUcleaners，Pexels，Postimage，Markdown Cheatsheet，@cheetah，Bitcointalk， bitcoinfees，blockchain.info和WEKUd是第三方应用程序/服务，并非由WEKU，Inc.拥有或维护。此处列出的这些列表以及其他地方列出的任何其他第三方应用程序或网站并不代表WEKU公司推荐。
 
-用户帖子的所有链接均由我们的用户创建，并不一定代表WEKU，Inc.或其管理层的观点。他们在此处列出的内容不代表WEKU，Inc.代表或认可或推荐
+用户文章的所有链接均由用户创建，并不一定代表WEKU，Inc.的观点。在此处列出的内容不代表WEKU，Inc.的认可或推荐。
 
-请使用第三方工具和内容，风险自负。
+如果使用任何第三方工具和内容，风险请自负。
 
 ^
